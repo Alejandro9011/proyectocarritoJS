@@ -1,0 +1,93 @@
+[
+    {
+      "id":1,
+      "img": "nuevoportatil.webp",
+      "name": "Mac",
+      "precio":190,
+      "cantidad":1
+          
+    
+    },
+
+    {
+        "id":2,
+        "img": "imagen2.webp",
+        "name": "Lenovo",
+        "precio":190,
+        "cantidad":1
+            
+      
+      },
+      {
+        "id":3,
+        "img": "imagen3.webp",
+        "name": "Mac",
+        "precio":190,
+        "cantidad":1
+            
+      
+      },
+      {
+        "id":4,
+        "img": "imagen4.webp",
+        "name": "Asus",
+        "precio":190,
+        "cantidad":1
+            
+      
+      },
+      {
+        "id":5,
+        "img": "imagen5.webp",
+        "name": "Mac",
+        "precio":190,
+        "cantidad":1
+            
+      
+      },
+      {
+        "id":6,
+        "img": "imagen6.webp",
+        "name": "Mac",
+        "precio":190,
+        "cantidad":1
+            
+      
+      },
+      {
+        "id":7,
+        "img": "imagen7.webp",
+        "name": "Bulgari",
+        "precio":190,
+        "cantidad":1
+            
+      
+      }, 
+      {
+        "id":8,
+        "img": "imagen8.webp",
+        "name": "Tablet LG",
+        "precio":190,
+        "cantidad":1
+            
+      
+      },
+      {
+        "id":9,
+        "img": "imagen9.webp",
+        "name": "Tabblet Apple",
+        "precio":190,
+        "cantidad":1
+            
+      
+      },
+      {
+        "id":10,
+        "img": "imagen1.webp",
+        "name":"Rolex",
+        "precio":190,
+        "cantidad":1
+            
+      
+      } 
+  ]
